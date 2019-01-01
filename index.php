@@ -45,14 +45,14 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-8 col-sm-offset-2 text">
-                            <h1><strong>P.O.S</strong> DinWare</h1>
+                            <h1><strong>P.O.S</strong> Testing DinWare</h1>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-sm-6 col-sm-offset-3 form-box">
                         	<div class="form-top">
                         		<div class="form-top-left">
-                        			<h3>Login to POS systemss</h3>
+                        			<h3>Login to POS systems</h3>
                             		<p>Enter your username and password to login</p>
                         		</div>
                         		<div class="form-top-right">
